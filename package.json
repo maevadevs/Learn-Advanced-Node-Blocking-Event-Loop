@@ -1,5 +1,5 @@
 {
-  "name": "blocking-event-loop",
+  "name": "advanced-node-blocking-event-loop",
   "version": "1.0.0",
   "main": "index.js",
   "author": "maevadevs",
