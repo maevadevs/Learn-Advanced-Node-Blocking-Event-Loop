@@ -4,5 +4,5 @@ This repository is for exploring advanced node concepts for Event-Loop blocking.
 
 ## Available Commands
 
-yarn start: Start the application
-yarn eslint: Command used for accessing local `eslint` during development
+`yarn start`: Start the application
+`yarn eslint`: Command used for accessing local `eslint` during development
